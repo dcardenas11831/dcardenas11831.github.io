@@ -25,9 +25,8 @@ title: Daniel Cárdenas
 navbar-links:
   CV: "https://www.dropbox.com/s/v9o4is1ryxfvdnz/Daniel%20C%C3%A1rdenas%20CV%20-%20english.pdf?dl=0"
   Projects:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
+    - PhD Research Proposal: "https://dcardenas11831.github.io/2020-11-23-twitter-elections/"
+    - Twitter and elections: "https://dcardenas11831.github.io/2020-11-24-research-proposal/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
